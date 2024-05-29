@@ -1,0 +1,17 @@
+historia:
+- data: 2024-01-12
+  kwota: 250.23
+  tytul: woda
+- data: 2024-01-13
+  kwota: 120.0
+  tytul: prad
+- data: '2024-02-01'
+  kwota: 12.0
+  tytul: telefon
+- data: '2024-02-02'
+  kwota: 60.0
+  tytul: internet
+numer: 123456789
+wlasciciel:
+  imie: Jan
+  nazwisko: Nowak

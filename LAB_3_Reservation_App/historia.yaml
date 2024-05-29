@@ -1,0 +1,11 @@
+wlasciciel:
+  imie: Jan
+  nazwisko: Nowak
+numer: 123456789
+historia:
+  - data: 2024-01-12
+    kwota: 250.23
+    tytul: woda
+  - data: 2024-01-13
+    kwota: 120.00
+    tytul: prad
